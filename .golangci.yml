@@ -2,6 +2,7 @@ service:
   golangci-lint-version: 1.18.0
 linters:
   disable-all: true
+  foobar: blah
   enable:
     - deadcode
     - depguard
