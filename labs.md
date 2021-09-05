@@ -5,6 +5,8 @@
 
 ```
 func fib(n int)
+
+foobat
 ```
 
 Call `fib(7)` in `main` to print
