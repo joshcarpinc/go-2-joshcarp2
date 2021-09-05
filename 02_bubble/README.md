@@ -15,3 +15,6 @@ Call `fmt.Println(bubble([]int{3, 2, 1, 5}))` in `main` to print:
 
 - Bonus points: implement [Insertion sort](https://en.wikipedia.org/wiki/Insertion_sort)
 - Extra bonus points: implement an _O(n_ _log(n))_ sorting algorithm
+
+
+- foobar
